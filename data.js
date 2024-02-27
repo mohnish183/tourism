@@ -48,7 +48,7 @@ const data = [
     id: 6,
     section: "home",
     heading: "Perfect Holiday",
-    img: "https://fotorbit.com/wp-content/uploads/sites/56/2020/03/varanasi-portrait_tania-chatterjee_3.jpg",
+    img: "https://www.holidify.com/images/cmsuploads/compressed/varanasi-sunsetBoats-at-the-ghats-of-Varanasi-at-the-time-of-sunset_20210917154536.jpg",
     name: "Varanasi",
     place: "Ganga Aarti",
     link: "varanasi",
